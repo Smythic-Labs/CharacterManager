@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CharacterManager</string>
+    <string name="title_charcterlist_detail">CharcterList Detail</string>
+
+</resources>
