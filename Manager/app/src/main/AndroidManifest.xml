@@ -24,6 +24,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".CharcterListListActivity" />
         </activity>
+        <activity
+            android:name=".CharacterSheet"
+            android:label="@string/title_activity_character_sheet" >
+        </activity>
     </application>
 
 </manifest>

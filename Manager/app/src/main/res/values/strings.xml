@@ -3,5 +3,10 @@
 
     <string name="app_name">CharacterManager</string>
     <string name="title_charcterlist_detail">CharcterList Detail</string>
+    <string name="title_activity_character_sheet">CharacterSheet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="character_name" style="h1">Character Name</string>
+    <string name="enterName">Enter Name</string>
 
 </resources>
